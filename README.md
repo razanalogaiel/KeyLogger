@@ -15,7 +15,7 @@ pynput, numpy, cv2, pyautogui, platform, requests, subprocess, smtplib, email, s
 
 ### Installing
 
-* You may install all required modules using the command line. 
+You may install all required modules using the command line. 
 
 ### Executing program
 
